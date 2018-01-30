@@ -49,3 +49,7 @@ footer {
   text-align: center;
   border-top: 1px solid #CCC;
 }
+
+.red {
+  color: red;
+}
