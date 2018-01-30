@@ -53,3 +53,8 @@ footer {
 .red {
   color: red;
 }
+
+a {
+  text-decoration:none;
+  color: rgb(106, 106, 106);
+}
