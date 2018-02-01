@@ -61,6 +61,8 @@ a {
 
 @media (max-width:768px) {
   body {
-    font-size: 2rem;
+    /*font-size: 2rem;*/
+    padding-left: 5%;
+    padding-right: 5%;
   }
 }
