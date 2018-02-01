@@ -21,14 +21,14 @@ body {
   display: flex;
   flex-flow: row wrap;
   color: rgb(106, 106, 106);
-  justify-content: center;
+  justify-content: space-around;
 
 }
 
 .main div {
   flex: 1;
-  min-width: 300px;
-  padding: 20px;
+  max-width: 200px;
+  margin: 20px;
 }
 
 footer{
