@@ -77,4 +77,12 @@ a {
     padding-left: 5%;
     padding-right: 5%;
   }
+
+  h1 {
+    padding-top: 5px;
+  }
+
+  footer {
+    font-size: 1.1rem;
+  }
 }
