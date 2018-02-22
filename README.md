@@ -1,3 +1,1 @@
-## Home Site
-
-[devrails.ru](http://devrails.ru/)
+## [devrails.ru](http://devrails.ru/)
